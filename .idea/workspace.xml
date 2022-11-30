@@ -4,24 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26612cc8-ea0c-43a0-9f39-5aae2fa73f17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Aquaman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Betmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Halk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Rossomaha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spiderman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Superman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="26612cc8-ea0c-43a0-9f39-5aae2fa73f17" name="Changes" comment="арена">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Arena.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Arena.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Betmen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Betmen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Halk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Halk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Spiderman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spiderman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Superman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Superman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -49,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "LombokPluginIS_LOMBOK_JPS_FIX_ENABLED": "true",
-    "LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/kristina.chachkova/IdeaProjects/FabricOrHeroes",
-    "settings.editor.selected.configurable": "Lombok"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;LombokPluginIS_LOMBOK_JPS_FIX_ENABLED&quot;: &quot;true&quot;,
+    &quot;LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kristina.chachkova/IdeaProjects/FabricOrHeroes&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Lombok&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,8 +66,17 @@
       <workItem from="1669734681563" duration="846000" />
       <workItem from="1669735603186" duration="45000" />
       <workItem from="1669735652882" duration="47000" />
-      <workItem from="1669736092673" duration="4208000" />
+      <workItem from="1669736092673" duration="17909000" />
+      <workItem from="1669811047806" duration="1141000" />
     </task>
+    <task id="LOCAL-00001" summary="арена">
+      <created>1669740577643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669740577643</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="арена" />
+    <option name="LAST_COMMIT_MESSAGE" value="арена" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

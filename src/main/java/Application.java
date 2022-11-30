@@ -13,5 +13,10 @@ public class Application {
         boi.fight(hero1,hero2);
         boi.fight(hero3,hero4);
         boi.fight(hero5,hero6);
+        Arena boi2 = new Arena();
+        boi2.fightFlyingHero(hero2,hero1);
+        boi2.fightFlyingHero(hero6,hero1);
+
+
     }
 }

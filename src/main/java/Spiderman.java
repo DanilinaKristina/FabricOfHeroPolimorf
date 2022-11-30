@@ -1,7 +1,12 @@
-public class Spiderman extends Hero{
+public  class  Spiderman extends Hero implements Flyable{
     @Override
     public String getName() {
         return "Человек-паук";
+    }
+
+    @Override
+    public void canFly() {
+        super.fly = true;
     }
 
     @Override
